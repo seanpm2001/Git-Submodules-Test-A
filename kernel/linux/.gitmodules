@@ -1,0 +1,3 @@
+[submodule "linux"]
+	path = kernel/linux
+	url = https://github.com/torvalds/linux.git
