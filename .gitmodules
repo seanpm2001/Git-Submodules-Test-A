@@ -10,7 +10,11 @@
 	path = kernel/linux
 	url = https://github.com/torvalds/linux
 	branch = main
+[submodule "docs"]
+	path = docs
+	url = https://github.com/github/docs
+	branch = main
 # File info
 # File type: Gitmodules file (*.gitmodules)
-# File version: 4 (2022, Wednesday, June 1st at 10:06 pm PST)
-# Line count (including blank lines and compiler line): 17
+# File version: 5 (2022, Wednesday, June 1st at 10:10 pm PST)
+# Line count (including blank lines and compiler line): 21
