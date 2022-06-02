@@ -1,0 +1,16 @@
+# [submodule "libfoo"]
+# 	path = include/foo
+# 	url = git://foo.com/git/foo.git
+# 	branch = main
+# [submodule "libbar"]
+# 	path = include/bar
+# 	url = git://bar.com/git/lib.git
+# 	branch = main
+[submodule "linux"]
+	path = kernel/linux
+	url = https://github.com/torvalds/linux
+	branch = main
+# File info
+# File type: Gitmodules file (*.gitmodules)
+# File version: 4 (2022, Wednesday, June 1st at 10:06 pm PST)
+# Line count (including blank lines and compiler line): 17
